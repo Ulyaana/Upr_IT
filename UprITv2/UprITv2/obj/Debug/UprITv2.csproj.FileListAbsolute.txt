@@ -1,0 +1,6 @@
+C:\OpenServer\domains\site6.local\Upr_IT\UprITv2\UprITv2\bin\Debug\UprITv2.exe.config
+C:\OpenServer\domains\site6.local\Upr_IT\UprITv2\UprITv2\bin\Debug\UprITv2.exe
+C:\OpenServer\domains\site6.local\Upr_IT\UprITv2\UprITv2\bin\Debug\UprITv2.pdb
+C:\OpenServer\domains\site6.local\Upr_IT\UprITv2\UprITv2\obj\Debug\UprITv2.csprojResolveAssemblyReference.cache
+C:\OpenServer\domains\site6.local\Upr_IT\UprITv2\UprITv2\obj\Debug\UprITv2.exe
+C:\OpenServer\domains\site6.local\Upr_IT\UprITv2\UprITv2\obj\Debug\UprITv2.pdb

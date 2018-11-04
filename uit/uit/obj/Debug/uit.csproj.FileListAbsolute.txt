@@ -1,0 +1,6 @@
+C:\OpenServer\domains\site6.local\Upr_IT\uit\uit\bin\Debug\uit.exe.config
+C:\OpenServer\domains\site6.local\Upr_IT\uit\uit\bin\Debug\uit.exe
+C:\OpenServer\domains\site6.local\Upr_IT\uit\uit\bin\Debug\uit.pdb
+C:\OpenServer\domains\site6.local\Upr_IT\uit\uit\obj\Debug\uit.csprojResolveAssemblyReference.cache
+C:\OpenServer\domains\site6.local\Upr_IT\uit\uit\obj\Debug\uit.exe
+C:\OpenServer\domains\site6.local\Upr_IT\uit\uit\obj\Debug\uit.pdb

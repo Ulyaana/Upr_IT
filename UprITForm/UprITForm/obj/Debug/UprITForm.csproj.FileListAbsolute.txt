@@ -1,0 +1,9 @@
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\bin\Debug\UprITForm.exe.config
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\bin\Debug\UprITForm.exe
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\bin\Debug\UprITForm.pdb
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\obj\Debug\UprITForm.csprojResolveAssemblyReference.cache
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\obj\Debug\UprITForm.Form1.resources
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\obj\Debug\UprITForm.Properties.Resources.resources
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\obj\Debug\UprITForm.csproj.GenerateResource.Cache
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\obj\Debug\UprITForm.exe
+C:\OpenServer\domains\site6.local\Upr_IT\UprITForm\UprITForm\obj\Debug\UprITForm.pdb
